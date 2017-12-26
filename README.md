@@ -3,10 +3,10 @@
 ![](https://cnzlh.github.io/ios_57.png)
 2.0.5(build 4)
 
-<a href="itms-services://?action=download-manifest&url=https://cnzlh.github.io/manifest.plist">点击在线安装ipa</a>
+<a href="itms-services://?action=download-manifest&url=https://github.com/cnzlh/DiTuiZhuShou/manifest.plist">点击在线安装ipa</a>
 
 发布日期: 
-2017.11.17
+2017.12.26
 
 更新日志:
 * 店铺页面界面和逻辑修改
